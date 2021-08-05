@@ -11,7 +11,7 @@ A sourdough bread recipe using sight, touch, smell, an no measurements. The adva
 
 *Open crumbs, with specks of whole flour.*
 
-I failed about 60 loaves over a year to find the right "feel" and tried everything you're not supposed to do (salt with the yeast! elderly starter! crappy oven!) to see if you're really not supposed to do it, and now my loaves are consistently ok-looking, so I'm pretty confident I got the basics down.
+I have never measured ingredients in my bread. I failed about 60 loaves over a year to find the right "feel" and tried everything you're not supposed to do (salt with the yeast! elderly starter! crappy oven!) to see if you're really not supposed to do it, and now my loaves are consistently ok-looking, so I'm pretty confident I got the basics down.
 Main influence: Joy Ride Coffee on Youtube.
 
 ## Ingredients
