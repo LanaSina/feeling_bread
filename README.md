@@ -2,6 +2,15 @@
 
 A sourdough bread recipe using sight, touch, smell, an no measurements. The advantage of mastering a recipe by feel is that you can adapt it no matter the amount you make, differences in temperature, or other unexpected circumstances. The feeling you are going for is in bold in the text.
 
+
+<img src="bread_0.jpg" height="300" alt="a round brown loaf of bread with a good oven spring and a good ear"> <img src="bread_1.jpg" height="300" alt="another round loaf in the oven">
+
+*Two different loaves baked with this recipe. Note the good oven spring and ear on the first one*
+
+<img src="crumb_0.jpg" height="300" alt="a loaf sliced open. the crumb is light brown and well opened"> <img src="crumb_1.jpg" height="300" alt="another slice of bread">
+
+*Open crumbs, with specks of whole flour.*
+
 I failed about 60 loaves over a year to find the right "feel" and tried everything you're not supposed to do (salt with the yeast! elderly starter! crappy oven!) to see if you're really not supposed to do it, and now my loaves are consistently ok-looking, so I'm pretty confident I got the basics down.
 Main influence: Joy Ride Coffee on Youtube.
 
@@ -24,6 +33,8 @@ You'll also need a large bowl to let the bread rise, a large flat plate (with ri
 
 You'll find a ton of advice online about how to make a starter, keeping it alive, and when to use it. I go the easy route. I use starter past its prime rise, as long at is **smells good (sweet or alcohol-like smell**, not funky) and is not moldy. I keep it in the fridge for several weeks and don't feed it. I just take it out a few hours before use. You can refesh yours a day before if you're nervous, but the age and amount of starter only seem to affect how long your bread will take to rise. I don't mind waiting a bit, so I use very little starter. No matter the final size of the loaf this is about the amount I use (Sometimes double or triple that, sometimes less if parts of the starter have dried out. Leave those out). I use all of it, then cut a very small bit of my bread dough (before the shaping step), mix that mix some flour and water, and put it in the fridge: that's my starter for the next time. No waste!
 
+<img src="starter_0.jpg" height="300" alt="about 3 spoonfulls of starter in a transparent glass in the fridge"> 
+
 ### I. Autolysis
 
 1. Decide if you are making a wet or drier dough (it's not really dry, just very firm). Wet doughs are harder to work with because they stick to everything and don't keep their shape, but they ferment much faster which is great if you are in a hurry. Dry doughs are harder to knead, but much much easier to work with afterwards. They shape well and don't stick.
@@ -39,9 +50,17 @@ You'll find a ton of advice online about how to make a starter, keeping it alive
 8. Put the dough on the plate. Cover the dough (don't let it stick to the cover) and wait until it **slacks off** and loses its shape. A wet dough might become completely flat, while a dry dough will only flatten a bit. It will probably take from 10 to 20 minutes. Fold the dough in 3 and put it back to rise. Repeat until you **see small bubbles  under the surface of the dough** (big ones might be due to the folding process, so just pop them and wait for the small bubbles). When you see bubbles, don't fold and go to the next step. I use very little starter, so my dough takes a lot of time to rise even in my 45C oven; I fold it every 20 to 25 min, 3 to 4 times.
 9. Sprinkle flour on a flat surface and transfer the dough to it by overturning the plate over it. Flour your fingers, and fold the dough in 3. Pinch all of the edges of the dough, making a suture to seal it shut. The dough will be slightly rectangular.
 
+<img src="bubbles.jpg" height="300" alt="a folded dough with small bubbles under the surface"> 
+
+*dough with small bubbles under the surface*
+
 ### III. Proofing and baking
 
 10. Prepare the bowl (or banetton) in which you will proof your dough. If your dough is wet, cover its surface with coarse corn flour. If it's very dry, you might not even need to use normal flour to prevent the dough from sticking to the bowl. Put the dough in the bowl, the biggest suture facing up. Cover your bowl.
 11. Wait until the dough is ready to bake: this step is called proofing. You will know by **pushing your finger in the dough to make a deep dent** in it. If the dent bounces back immediately, your dough is not ready. If the dent just stays there, you have waited too much and the dough has overproofed. If the dent comes back up slowly, your dough is ready. It should feel **soft like a relaxed muscle**, not firm and and not mushy. You can proof your dough at room temperature, or put it the fridge overnight or even a full day and then take it out to room temperature to finish proofing. In the fridge, lactic bacteria develop faster than yeast, so your dough will get that sour "sourdough" flavour without rising, so you have no risk of overproofing and you can bake your bread in the morning. If you skip the fridge step, especially if you have done all the rising in a warm oven as I do, your bread will be a bit bland.
 12. Finally! The baking! Ideally you would preheat your oven at 300C, add a bit of hot water in a bowl, cut a long curved line on the top of your bread from edge to edge to open the skin (scoring) and start baking. If, like me, your oven is weak (250C), don't score your bread immediately. Put it on a baking sheet in the preheated oven with the water, and wait until the bottom of the bread **starts lifting from the baking paper**. Open the oven and score the bread, then put it back to bake. I heard that if you bake in a pot, you will get much more beautiful bread, and I'm sure it's true.
 13. When the bread has stopped opening and puffing, which should take around 15 min, lower the temperature to 250C and take the water out of the oven. Bake until brown, turning the bread around if one side is baking faster than the other. You basically can't over-bake bread, so wait until it's **well browned**. Turn the oven off, open the door just a little and let your bread cool down.
+
+<img src="open.jpg" height="300" alt="White dough mid-baking, with a big ear"> 
+
+*The dough has stopped puffing, it is time to remove the water and let it brown*
