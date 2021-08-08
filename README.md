@@ -1,6 +1,6 @@
 # Baking Okay Bread Without Measurements
 
-A sourdough bread recipe using sight, touch, smell, an no measurements. The advantage of mastering a recipe by feel is that you can adapt it no matter the amount you make, differences in temperature, or other unexpected circumstances. The feeling you are going for is in bold in the text.
+A sourdough bread recipe using sight, touch, smell, and no measurements. The advantage of mastering a recipe by feel is that you can adapt it no matter the amount you make, differences in temperature, or other unexpected circumstances. The feeling you are going for is in bold in the text.
 
 
 <img src="bread_0.jpg" height="300" alt="a round brown loaf of bread with a good oven spring and a good ear"> <img src="bread_1.jpg" height="300" alt="another round loaf in the oven">
